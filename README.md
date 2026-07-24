@@ -166,18 +166,4 @@ Combining academic excellence, high-impact research, technical training, and sof
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonnyBinoy&theme=tokyonight" alt="Repositories Per Language" />
 </div>
 
----
 
-## 📬 Connect & Collaborate
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tonnybinoy/"><img src="https://img.shields.io/badge/LinkedIn-Tonny%20Binoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:toney.binoy@gmail.com"><img src="https://img.shields.io/badge/Email-toney.binoy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/TonnyBinoy"><img src="https://img.shields.io/badge/GitHub-TonnyBinoy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Designed with ❤️ for <b>Tonny Binoy</b>'s GitHub Profile</sub>
-</div>
