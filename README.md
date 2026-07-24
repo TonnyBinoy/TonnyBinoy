@@ -5,7 +5,7 @@
   <p align="center">
     <a href="mailto:toney.binoy@gmail.com"><img src="https://img.shields.io/badge/Email-toney.binoy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/TonnyBinoy"><img src="https://img.shields.io/badge/GitHub-TonnyBinoy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <img src="https://img.shields.io/badge/Location-Kottayam%2C%20India-007EC6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-007EC6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </p>
 
   <p>
