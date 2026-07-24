@@ -154,7 +154,3 @@ With a strong blend of academic instruction, research contributions, industrial 
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ for Tonny Binoy's GitHub Profile</sub>
-</div>
-
