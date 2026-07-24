@@ -17,7 +17,7 @@
 
 ## 👨‍🏫 Professional Overview
 
-I am an **Assistant Professor** in the Department of Computer Science & Engineering at **Rajagiri School of Engineering & Technology (RSET)**, Cochin, India. My passion lies at the intersection of **Artificial Intelligence, Agentic & Autonomous Systems, Video Steganography, Cybersecurity, and Cloud Computing**.
+ **Assistant Professor** in the Department of Computer Science & Engineering at **Rajagiri School of Engineering & Technology (RSET)**, Cochin, India. My passion lies at the intersection of **Artificial Intelligence, Agentic & Autonomous Systems, Video Steganography, Cybersecurity, and Cloud Computing**.
 
 With a strong blend of academic instruction, research contributions, industrial quality assurance, and technical training, I aim to advance knowledge sharing and foster innovation in next-generation AI and secure data transmission technologies.
 
