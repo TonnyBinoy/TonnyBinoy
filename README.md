@@ -136,8 +136,20 @@ With a strong blend of academic instruction, research contributions, industrial 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonnyBinoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tonny's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyBinoy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=TonnyBinoy&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonnyBinoy&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonnyBinoy&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonnyBinoy&theme=tokyonight" alt="Repositories Per Language" />
 </div>
 
 ---
@@ -145,3 +157,4 @@ With a strong blend of academic instruction, research contributions, industrial 
 <div align="center">
   <sub>Designed with ❤️ for Tonny Binoy's GitHub Profile</sub>
 </div>
+
