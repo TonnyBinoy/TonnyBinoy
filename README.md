@@ -16,33 +16,6 @@
 
 ---
 
-## 👨‍🏫 Professional Overview
-
-I am an **Assistant Professor** in the Department of Computer Science & Engineering at **Rajagiri School of Engineering & Technology (RSET)**, Cochin, India. My domain expertise spans **Artificial Intelligence, Agentic & Autonomous Systems, Video Steganography, Cybersecurity, and Multi-Cloud Architecture**.
-
-Combining academic excellence, high-impact research, technical training, and software quality engineering experience, I am committed to mentoring learners, driving cutting-edge research, and engineering secure, intelligent technologies for complex real-world challenges.
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Academic Credentials</h4>
-      <ul>
-        <li><b>M.Tech in Network Engineering</b> (CGPA: 8.5) — <i>Rajagiri School of Engineering & Technology</i></li>
-        <li><b>B.Tech in Computer Science & Engineering</b> — <i>Amal Jyothi College of Engineering</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔬 Key Research Areas</h4>
-      <ul>
-        <li><b>AI & Machine Learning</b> (Agentic AI, GenAI, Predictive Modeling)</li>
-        <li><b>Cybersecurity & Cryptography</b> (Video Steganography, Quasigroup Encryption, ECC-ChaCha20, FRT)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Core Competencies & Tech Stack
 
 | Domain | Technologies & Frameworks |
