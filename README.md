@@ -107,19 +107,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-* 🏫 **Assistant Professor** | *Department of CSE, Rajagiri School of Engineering & Technology, Cochin* `(06/2025 – Present)`
-* 🏫 **Assistant Professor** | *Department of CSE, Saintgits College of Engineering, Kottayam* `(01/2025 – 06/2025)`
-* 🏫 **Assistant Professor** | *PG Dept. of Computer Applications & AI, Saintgits College of Applied Sciences* `(05/2023 – 12/2024)`
-* ☁️ **Empanelled Trainer (AWS Cloud Foundation)** | *ICT Academy of Kerala, Thiruvananthapuram* `(02/2023 – 04/2023)`
-* 🧪 **Junior SQA Engineer** | *Buck Capability Centre Pvt. Ltd., Kochi* `(08/2014 – 12/2022)`
-* 🖥️ **System Administrator** | *Rajagiri Christu Jayanthi Public School, Kochi* `(03/2019 – 11/2019)`
-* 🌐 **Network Associate cum Trainer (CCNA)** | *Spectrum Softech Solutions, Kochi* `(07/2016 – 07/2017)`
-* 🛠️ **Support Engineer** | *Net Systems, Kottayam* `(08/2014 – 12/2015)`
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
